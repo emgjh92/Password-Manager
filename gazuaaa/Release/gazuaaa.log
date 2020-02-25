@@ -1,0 +1,41 @@
+﻿  소스.c
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(70): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(78): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(79): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(101): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(132): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(135): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(136): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(168): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(214): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(223): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(224): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(247): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(274): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(280): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(281): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(313): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(345): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(352): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(353): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(372): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(394): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(403): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(404): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(436): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(851): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(860): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(880): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(882): warning C4013: 'isdigit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(897): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(920): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(920): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(954): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(1016): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(1038): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(1054): warning C4715: 'checkpasswordl': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\jae97\onedrive\바탕 화면\gazuaaa\gazuaaa\소스.c(839): warning C4172: 지역 변수 또는 임시: c의 주소를 반환하고 있습니다.
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  gazuaaa.vcxproj -> C:\Users\jae97\OneDrive\바탕 화면\gazuaaa\Release\gazuaaa.exe
