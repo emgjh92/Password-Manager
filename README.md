@@ -1,6 +1,14 @@
-# Password-Manager
-
+# Password-Manager 
+# (Project period : 2018-04-15 ~ 2018-05-15)
 Password Manager(Create a new password encryption technique)
+
+contributors :
+최재현,
+고창훈,
+서성관,
+이소영,
+곽근진 from sejong university
+
 
 
 # 1. Overview
