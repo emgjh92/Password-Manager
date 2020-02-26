@@ -1,4 +1,4 @@
-# Password-Manager 
+# Password Manager (Project Requirements)
 # (Project period : 2018-04-15 ~ 2018-05-15)
 Password Manager(Create a new password encryption technique)
 
